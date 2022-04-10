@@ -1,3 +1,3 @@
 # Aparecida
 
-treino de js
+Treino de JavaScript
